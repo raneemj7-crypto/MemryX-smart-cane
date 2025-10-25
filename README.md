@@ -1,2 +1,4 @@
 # MemryX-smart-cane
-Smart AI Cane uses a camera, sensors, and MemryX Edge AI to help visually impaired users navigate safely. It detects obstacles, stairs, doors, and vehicles, measures their distance, and provides voice or vibration alerts. The camera also recognizes traffic lights, informing the user when it’s red or green for safe crossing.
+Cano is a Smart AI Cane powered by MemryX Edge AI, designed to help visually impaired users navigate safely and independently.
+Currently, Cano uses a built-in camera and AI models to detect obstacles, stairs, doors, and vehicles, and to recognize traffic lights, identifying whether they are red or green for safe crossing.
+In future development, Cano will integrate sensors for enhanced spatial awareness and provide vibration or audio feedback to guide users in real time.
